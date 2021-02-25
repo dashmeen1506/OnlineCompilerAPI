@@ -1,0 +1,31 @@
+h3{
+    font-size: 25px;
+}
+textarea{
+    font-size: 16px;
+}
+select{
+    font-size:15px;
+    position: absolute;
+    top:10px;
+    left: 800px;
+    padding: 10px;
+}
+button{
+    background-color: rgb(255, 191, 0);
+    text-decoration: none;
+    border: none;
+    padding: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 16px;
+}
+#output{
+    background: black;
+    color: white;
+    width: 880px;
+    height: 150px;
+    margin-top:10px;
+    padding: 10px;
+}
